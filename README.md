@@ -1,4 +1,4 @@
-<h1>Python Visualisation</h1>
+<h1>Python Project</h1>
 
 <h2>Business Problem</h2>
 Hass Avocado, a company based in Mexico, produces a variety of avocados sold in the United States. They have been very successful in recent years and want to expand. Therefore, they evaluate the current business and consider expanding their existing Avocado farms to grow avocados in other regions.
