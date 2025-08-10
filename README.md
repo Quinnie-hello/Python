@@ -50,16 +50,16 @@ Heatmap showing relationship of bag sizes and type:  <br/>
 
 - Focus on Organic Avocados<br/>
 
-  --They have a higher average selling price across all markets <br/>
-  --Even in lower-priced regions, organic maintains a premium <br/>
+  - They have a higher average selling price across all markets <br/>
+  - Even in lower-priced regions, organic maintains a premium <br/>
 
 - Target High-Price Regions <br/>
 
-  --Examples: Albany, Baltimore/Washington, Boston, Hartford/Springfield — all show organic prices above $1.70 </br>
-  --These regions can yield better margins </br>
+  - Examples: Albany, Baltimore/Washington, Boston, Hartford/Springfield — all show organic prices above $1.70 </br>
+  - These regions can yield better margins </br>
 
 - Consider Seasonal Pricing Strategy </br>
-    --Use Month and DayOfYear to identify high-demand months where prices peak for organic avocados, then ramp up supply in those months </br>
+    - Use Month and DayOfYear to identify high-demand months where prices peak for organic avocados, then ramp up supply in those months </br>
 <!--
 
  ```diff
